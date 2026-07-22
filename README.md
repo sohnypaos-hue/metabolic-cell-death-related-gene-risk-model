@@ -1,6 +1,6 @@
 # A generalizable multi-pathway metabolic cell death signature predicts clinical outcomes and tumor microenvironmental states in bladder cancer
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX) 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21491997.svg)](https://doi.org/10.5281/zenodo.21491997) 
 [![R Version](https://img.shields.io/badge/R-%3E%3D%204.1.0-blue.svg)](https://cran.r-project.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
